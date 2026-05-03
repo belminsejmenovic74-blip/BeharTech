@@ -1,0 +1,21 @@
+{
+  "name": "Behar Tech",
+  "short_name": "Behar Tech",
+  "description": "Gestion atelier réparation smartphones, tablettes, ordinateurs et consoles",
+  "start_url": "/dashboard",
+  "display": "standalone",
+  "background_color": "#FAFAF8",
+  "theme_color": "#2A9D8F",
+  "icons": [
+    {
+      "src": "/assets/logos/app-icon.jpeg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/assets/logos/app-icon.jpeg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    }
+  ]
+}
